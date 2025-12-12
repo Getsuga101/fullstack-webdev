@@ -1,0 +1,1329 @@
+{
+"ProgramLogic": [
+  { 
+    "id": 1,
+    "question": "What is the first step in problem solving when writing a program?", 
+    "options": ["Debugging the program","Understanding the problem requirements","Writing code immediately","Buying a computer"], 
+     "answerIndex": 1 
+    },
+  { 
+    "id": 2,
+    "question": "A step-by-step method of solving a problem is known as:", 
+    "options": ["Algorithm","Program","Database","Flowchart"], 
+     "answerIndex": 0 
+    },
+  { 
+    "id": 3,
+    "question": "Which symbol is used to represent a decision in a flowchart?", 
+    "options": ["Rectangle","Oval","Diamond","Parallelogram"], 
+     "answerIndex": 2 
+    },
+  { 
+    "id": 4,
+    "question": "Which programming construct is used for making a choice between alternatives?", 
+    "options": ["Loop","Decision","Sequence","Input"], 
+     "answerIndex": 1 
+    },
+  { 
+    "id": 5,
+    "question": "In a flowchart, the oval symbol represents:", 
+  "options": ["Process","Start/Stop","Decision","Input/Output"], 
+     "answerIndex": 1 
+    },
+  { 
+    "id": 6,
+    "question": "Which statement checks a condition in programming?", 
+  "options": ["IF","READ","END","START"], 
+     "answerIndex": 0 
+    },
+  { 
+    "id": 7,
+    "question": "Which of the following is NOT a looping statement?", 
+  "options": ["FOR","WHILE","DO-WHILE","PRINT"], 
+     "answerIndex": 3 
+    },
+  { 
+    "id": 8,
+    "question": "A flowchart is a:", 
+  "options": ["Text-based representation of a program","Graphical representation of an algorithm","Programming language","Database design tool"], 
+     "answerIndex": 1 
+    },
+  { 
+    "id": 9,
+    "question": "Which programming structure executes statements in order?", 
+     
+  "options": ["Conditional structure","Sequence structure","Looping structure","Recursive structure"], 
+     "answerIndex": 1 
+    },
+  { 
+    "id": 10
+    , 
+    "question": "Which step comes immediately after writing the algorithm?", 
+  "options": ["Testing and debugging","Documentation","Flowchart design","Coding"], 
+    "answerIndex": 2 
+  },
+  { 
+    "id": 11, 
+    "question": "In an IF…ELSE statement, ELSE executes when:", 
+  "options": ["Condition is true","Condition is false","Program stops","Input is invalid"], "answerIndex": 1 },
+  { 
+    "id": 12, 
+    "question": "Which loop guarantees execution at least once?", 
+  "options": ["FOR loop","WHILE loop","DO-WHILE loop","Switch"], "answerIndex": 2 },
+  { 
+    "id": 13, 
+    "question": "Which is the correct order of programming stages?", 
+  "options": ["Coding → Planning → Testing","Planning → Coding → Testing","Testing → Coding → Planning","Planning → Testing → Coding"], "answerIndex": 1 },
+  { 
+    "id": 14, 
+    "question": "Which shape is used for input/output in a flowchart?", 
+  "options": ["Diamond","Rectangle","Parallelogram","Circle"], "answerIndex": 2 },
+  { 
+    "id": 15, 
+    "question": "A loop that never ends is called:", 
+  "options": ["Infinite loop","Terminating loop","Conditional loop","Sequential loop"], "answerIndex": 0 },
+  { 
+    "id": 16, 
+    "question": "Debugging is the process of:", 
+  "options": ["Writing a program","Correcting errors","Creating flowcharts","Installing software"], "answerIndex": 1 },
+  { 
+    "id": 17, 
+    "question": "Which of the following is considered the brain of the computer?", 
+  "options": ["Monitor","CPU","Mouse","Keyboard"], "answerIndex": 1 },
+  { 
+    "id": 18, 
+    "question": "What is the purpose of testing a program?", 
+  "options": ["To introduce more errors","To improve documentation","To check for errors and correctness","To delete unwanted code"], "answerIndex": 2 },
+  { 
+    "id": 19, 
+    "question": "What does a flowchart help to reduce?", 
+  "options": ["Errors","Execution","Cost","Memory"], "answerIndex": 0 },
+  { 
+    "id": 20, 
+    "question": "Which symbol is used for process steps in flowchart?", 
+  "options": ["Rectangle","Oval","Diamond","Arrow"], "answerIndex": 0 },
+  { 
+    "id": 21, 
+    "question": "What is a computer program?", 
+  "options": ["Set of instructions","Operating system","Hardware device","Computer user"], "answerIndex": 0 },
+  { 
+    "id": 22, 
+    "question": "Which construct repeats a block of code?", 
+  "options": ["Branching","Looping","Sequence","Function"], "answerIndex": 1 },
+  { 
+    "id": 23, 
+    "question": "Which programming term refers to a Yes/No or True/False check?", 
+  "options": ["Decision","Loop","Sequence","Debug"], "answerIndex": 0 },
+  { 
+    "id": 24, 
+    "question": "What is the last step in a programming process?", 
+  "options": ["Coding","Testing","Documentation","Analysis"], "answerIndex": 2 },
+  { 
+    "id": 25, 
+    "question": "Which construct is described as top-down execution?", 
+  "options": ["Sequence","Selection","Iteration","Function"], "answerIndex": 0 },
+  { 
+    "id": 26, 
+    "question": "An error that stops program execution is called:", 
+  "options": ["Logical error","Syntax error","Runtime error","Operator error"], "answerIndex": 1 },
+  { 
+    "id": 27, 
+    "question": "Which type of error produces wrong output but no crash?", 
+  "options": ["Syntax error","Logical error","Runtime error","Input error"], "answerIndex": 1 },
+  { 
+    "id": 28, 
+    "question": "The arrow symbol in a flowchart is used to show:", 
+  "options": ["Start and Stop","Decision making","Direction of flow","Input operations"], "answerIndex": 2 },
+  { 
+    "id": 29, 
+    "question": "Which statement is used to jump to another part of a program?", 
+  "options": ["LOOP","IF","GOTO","END"], "answerIndex": 2 },
+  { 
+    "id": 30, 
+    "question": "Which of these is a problem-solving technique?", 
+  "options": ["Coding","Algorithm design","Downloading software","Web browsing"], "answerIndex": 1 },
+  { 
+    "id": 31, 
+    "question": "Which flowchart symbol indicates input/output?", 
+  "options": ["Rectangle","Parallelogram","Diamond","Circle"], "answerIndex": 1 },
+  { 
+    "id": 32, 
+    "question": "Which structure tests multiple possible answers?", 
+  "options": ["Looping","Sequential","Selection","Switch"], "answerIndex": 3 },
+  { 
+    "id": 33, 
+    "question": "Which term means converting an algorithm into actual code?", 
+  "options": ["Testing","Coding","Debugging","Analysis"], "answerIndex": 1 },
+  { 
+    "id": 34, 
+    "question": "Which programming tool visually shows logic flow?", 
+  "options": ["Flowchart","Spreadsheet","Web browser","Compiler"], "answerIndex": 0 },
+  { 
+    "id": 35, 
+    "question": "Which part of program takes user input?", 
+  "options": ["Output","Input","Processing","Storage"], "answerIndex": 1 },
+  { 
+    "id": 36, 
+    "question": "The WHILE loop stops when the condition becomes:", 
+  "options": ["True","False","Zero","Infinite"], "answerIndex": 1 },
+  { 
+    "id": 37, 
+    "question": "What is the purpose of a flowchart connector?", 
+  "options": ["To show direction","To link broken flowchart sections","To start a loop","To end loop"], "answerIndex": 1 },
+  { 
+    "id": 38, 
+    "question": "Which error occurs during code execution?", 
+  "options": ["Syntax error","Runtime error","Logical error","Typing error"], "answerIndex": 1 },
+  { 
+    "id": 39, 
+    "question": "Which step involves user requirements?", 
+  "options": ["Coding","Analysis","Testing","Debugging"], "answerIndex": 1 },
+  { 
+    "id": 40, 
+    "question": "Which of these helps programmers think through problems before coding?", 
+  "options": ["Video games","Flowchart","Complaints","Keyboard"], "answerIndex": 1 },
+  { 
+    "id": 41, 
+    "question": "What is the main goal of a computer program?", 
+  "options": ["To create errors","To solve a specific problem","To display graphics","To look beautiful"], "answerIndex": 1 },
+  { 
+    "id": 42, 
+    "question": "Which control structure allows repetition?", 
+  "options": ["Loop","Decision","Sequence","Function"], "answerIndex": 0 },
+  { 
+    "id": 43, 
+    "question": "Which of these is NOT an input device?", 
+  "options": ["Keyboard","Mouse","Printer","Scanner"], "answerIndex": 2 },
+  { 
+    "id": 44, 
+    "question": "Which instruction ends a program?", 
+  "options": ["STOP","HALT","END","QUIT"], "answerIndex": 2},
+    {
+    "id": 45,
+    "question": "Which error is most difficult to detect?", 
+    "options": ["Logical error","Syntax error","Runtime error","Compilation error"],
+    "answerIndex": 0
+  },
+  {
+    "id": 46,
+    "question": "Testing with sample data helps to:", 
+    "options": ["Increase errors","Check correctness","Reduce users","Crash the system"],
+    "answerIndex": 1
+  },
+  {
+    "id": 47,
+    "question": "When does a FOR loop stop?", 
+    "options": ["When condition becomes true","After fixed iterations","When user presses a key","When memory ends"],
+    "answerIndex": 1
+  },
+  {
+    "id": 48,
+    "question": "Which flowchart symbol shows a predefined process?", 
+    "options": ["Oval","Circle","Rectangle","Double-line rectangle"],
+    "answerIndex": 3
+  },
+  {
+    "id": 49,
+    "question": "Which computing term means data fed into system?", 
+    "options": ["Input","Output","Storage","Processing"],
+    "answerIndex": 0
+  },
+  {
+    "id": 50,
+    "question": "Which step improves program readability and future maintenance?", 
+    "options": ["Testing","Documentation","Debugging","Programming"],
+    "answerIndex": 1
+  }
+],
+"HTML": [
+  {
+    "id": 51,
+    "question": "What does HTML stand for?", 
+    "options": ["Hyper Text Markup Language","High Text Making Language","Hyperlinks and Text Markup Language","Hyper Tool Multi Language"],
+    "answerIndex": 0
+  },
+  {
+    "id": 52,
+    "question": "Which tag is used to create a hyperlink?", 
+    "options": ["<link>","<a>","<href>","<hyper>"],
+    "answerIndex": 1
+  },
+  {
+    "id": 53,
+    "question": "Which HTML tag defines the largest heading?", 
+    "options": ["<heading>","<h6>","<h1>","<head>"],
+    "answerIndex": 2
+  },
+  {
+    "id": 54,
+    "question": "Which element is used to insert a line break?", 
+    "options": ["<break>","<lb>","<br>","<ln>"],
+    "answerIndex": 2
+  },
+  {
+    "id": 55,
+    "question": "Which tag is used for inserting an image?", 
+    "options": ["<img>","<src>","<picture>","<image>"],
+    "answerIndex": 0
+  },
+  {
+    "id": 56,
+    "question": "Which attribute specifies the image source in <img>?", 
+    "options": ["alt","src","href","link"],
+    "answerIndex": 1
+  },
+  {
+    "id": 57,
+    "question": "What is the correct HTML for adding a background color?", 
+    "options": ["<body color=\"blue\">","<background>blue</background>","<body style=\"background-color:blue;\">","<bg>blue</bg>"],
+    "answerIndex": 2
+  },
+  {
+    "id": 58,
+    "question": "Choose the correct HTML element for the largest heading.", 
+    "options": ["<h6>","<head>","<h1>","<heading>"],
+    "answerIndex": 2
+  },
+  {
+    "id": 59,
+    "question": "Which HTML element is used to define emphasized text?", 
+    "options": ["<i>","<em>","<italic>","<strong>"],
+    "answerIndex": 1
+  },
+  {
+    "id": 60,
+    "question": "Which tag is used to create an unordered list?", 
+    "options": ["<ul>","<ol>","<li>","<list>"],
+    "answerIndex": 0
+  },
+  {
+    "id": 61,
+    "question": "Which tag is used to define a table row?", 
+    "options": ["<th>","<tr>","<td>","<table-row>"],
+    "answerIndex": 1
+  },
+  {
+    "id": 62,
+    "question": "Which tag defines a form?", 
+    "options": ["<input>","<form>","<textarea>","<fieldset>"],
+    "answerIndex": 1
+  },
+  {
+    "id": 63,
+    "question": "The <title> element must be inside:", 
+    "options": ["<head>","<body>","<footer>","<header>"],
+    "answerIndex": 0
+  },
+  {
+    "id": 64,
+    "question": "Which HTML attribute specifies an alternate text for an image?", 
+    "options": ["src","title","alt","description"],
+    "answerIndex": 2
+  },
+  {
+    "id": 65,
+    "question": "How can you make a numbered list?", 
+    "options": ["<dl>","<ul>","<list>","<ol>"],
+    "answerIndex": 3
+  },
+  {
+    "id": 66,
+    "question": "What is the correct HTML element for inserting a line?", 
+    "options": ["<line>","<hr>","<break>","<border>"],
+    "answerIndex": 1
+  },
+  {
+    "id": 67,
+    "question": "How do you make text bold?", 
+    "options": ["<b>","<bold>","<bb>","<strongtext>"],
+    "answerIndex": 0
+  },
+  {
+    "id": 68,
+    "question": "What does <th> stand for?", 
+    "options": ["Table Header","Table Head","Table Heading","Text Header"],
+    "answerIndex": 0
+  },
+  {
+    "id": 69,
+    "question": "Which tag is used for inserting JavaScript?", 
+    "options": ["<script>","<js>","<javascript>","<code>"],
+    "answerIndex": 0
+  },
+  {
+    "id": 70,
+    "question": "The correct HTML for creating a checkbox is:", 
+    "options": ["<checkbox>","<input type=\"checkbox\">","<check>","<box>"],
+    "answerIndex": 1
+  },
+  {
+    "id": 71,
+    "question": "Which element is used for the footer section?", 
+    "options": ["<foot>","<bottom>","<footer>","<end>"],
+    "answerIndex": 2
+  },
+  {
+    "id": 72,
+    "question": "How do you create a dropdown list?", 
+    "options": ["<dropdown>","<select>","<list>","<option>"],
+    "answerIndex": 1
+  },
+  {
+    "id": 73,
+    "question": "Which tag is used to group content?", 
+    "options": ["<div>","<span>","<group>","<section>"],
+    "answerIndex": 0
+  },
+  {
+    "id": 74,
+    "question": "Which tag is used for inline text grouping?", 
+    "options": ["<div>","<span>","<p>","<inline>"],
+    "answerIndex": 1
+  },
+  {
+    "id": 75,
+    "question": "Which element represents navigation links?", 
+    "options": ["<nav>","<menu>","<link>","<navigation>"],
+    "answerIndex": 0
+  },
+  {
+    "id": 76,
+    "question": "The <meta> tag is used for:", 
+    "options": ["Metadata","Scripts","Styling","Layout"],
+    "answerIndex": 0
+  },
+  {
+    "id": 77,
+    "question": "How do you specify comments in HTML?", 
+    "options": ["// comment","# comment","<!-- comment -->","comment"],
+    "answerIndex": 2
+  },
+  {
+    "id": 78,
+    "question": "Which tag defines the document body?", 
+    "options": ["<html>","<head>","<body>","<content>"],
+    "answerIndex": 2
+  },
+  {
+    "id": 79,
+    "question": "Which input type is used for passwords?", 
+    "options": ["text","password","pass","hidden"],
+    "answerIndex": 1
+  },
+  {
+    "id": 80,
+    "question": "Which tag is used to display preformatted text?", 
+    "options": ["<code>","<pre>","<text>","<fixed>"],
+    "answerIndex": 1
+  },
+  {
+    "id": 81,
+    "question": "Which element defines a section of navigation links?", 
+    "options": ["<section>","<menu>","<nav>","<aside>"],
+    "answerIndex": 2
+  },
+  {
+    "id": 82,
+    "question": "The <iframe> tag is used for:", 
+    "options": ["Image frames","Inline frames","Form fields","Divisions"],
+    "answerIndex": 1
+  },
+  {
+    "id": 83,
+    "question": "What is the purpose of <label> tag?", 
+    "options": ["Adds captions to images","Associates text with form controls","Adds tooltips","None"],
+    "answerIndex": 1
+  },
+  {
+    "id": 84,
+    "question": "Which element is used for adding audio?", 
+    "options": ["<sound>","<music>","<audio>","<media>"],
+    "answerIndex": 2
+  },
+  {
+    "id": 85,
+    "question": "Which attribute specifies a unique identifier for an element?", 
+    "options": ["class","id","style","name"],
+    "answerIndex": 1
+  },
+  {
+    "id": 86,
+    "question": "Which HTML tag is used to define the title of a table?", 
+    "options": ["<caption>","<title>","<thead>","<summary>"],
+    "answerIndex": 0
+  },
+  {
+    "id": 87,
+    "question": "Which HTML tag defines a paragraph?", 
+    "options": ["<para>","<p>","<text>","<pg>"],
+    "answerIndex": 1
+  },  {
+    "id": 88,
+    "question": "Which element is used to embed a video?", 
+    "options": ["<media>","<video>","<movie>","<vid>"],
+    "answerIndex": 1
+  },
+  {
+    "id": 89,
+    "question": "HTML comments start with:", 
+    "options": ["<!--","//","#","/*"],
+    "answerIndex": 0
+  },
+  {
+    "id": 90,
+    "question": "HTML5 semantic elements include:", 
+    "options": ["<div>, <span>","<header>, <footer>","<bold>, <italic>","<meta>, <title>"],
+    "answerIndex": 1
+  }
+],
+"CSS": [
+  {
+    "id": 91,
+    "question": "What does CSS stand for?", 
+    "options": ["Creative Style System","Cascading Style Sheets","Computer Styling Syntax","Colorful Style Sheets"],
+    "answerIndex": 1
+  },
+  {
+    "id": 92,
+    "question": "Which tag is used to link an external CSS file?", 
+    "options": ["<style>","<css>","<link>","<stylesheet>"],
+    "answerIndex": 2
+  },
+  {
+    "id": 93,
+    "question": "Which HTML attribute is used to define inline styles?", 
+    "options": ["font","class","style","styles"],
+    "answerIndex": 2
+  },
+  {
+    "id": 94,
+    "question": "How do you add a background color in CSS?", 
+    "options": ["color: red;","background: red;","background-color: red;","bgcolor: red;"],
+    "answerIndex": 2
+  },
+  {
+    "id": 95,
+    "question": "How do you center text?", 
+    "options": ["text-align: center;","align: center;","font-align: center;","center: true;"],
+    "answerIndex": 0
+  },
+  {
+    "id": 96,
+    "question": "Which property is used to change text color?", 
+    "options": ["background-color","text-color","color","font-color"],
+    "answerIndex": 2
+  },
+  {
+    "id": 97,
+    "question": "Which property changes font size?", 
+    "options": ["text-size","font-size","size","text-font"],
+    "answerIndex": 1
+  },
+  {
+    "id": 98,
+    "question": "What does 'px' stand for?", 
+    "options": ["Pixels","Percent","Points","Picas"],
+    "answerIndex": 0
+  },
+  {
+    "id": 99,
+    "question": "Which symbol is used to select a class in CSS?", 
+    "options": ["#",".","*","@"],
+    "answerIndex": 1
+  },
+  {
+    "id": 100,
+    "question": "Which symbol is used to select an ID?", 
+    "options": ["#",".","%","$"],
+    "answerIndex": 0
+  },
+  {
+    "id": 101,
+    "question": "How do you make text bold using CSS?", 
+    "options": ["font-bold: true;","text-weight: bold;","font-weight: bold;","bold: yes;"],
+    "answerIndex": 2
+  },
+  {
+    "id": 102,
+    "question": "How do you apply styles to all <p> elements?", 
+    "options": ["p { }","#p { }",".p { }","*p { }"],
+    "answerIndex": 0
+  },
+  {
+    "id": 103,
+    "question": "The property border-radius is used to:", 
+    "options": ["Add a border","Round corners","Add shadows","Add outlines"],
+    "answerIndex": 1
+  },
+  {
+    "id": 104,
+    "question": "The property used to add space inside an element:", 
+    "options": ["margin","border","padding","spacing"],
+    "answerIndex": 2
+  },
+  {
+    "id": 105,
+    "question": "The property used to add space outside an element:", 
+    "options": ["padding","margin","outline","border"],
+    "answerIndex": 1
+  },
+  {
+    "id": 106,
+    "question": "Which value makes an element hidden?", 
+    "options": ["display: none;","visibility: hidden;","Both A and B","hide: true;"],
+    "answerIndex": 2
+  },
+  {
+    "id": 107,
+    "question": "How do you make text italic in CSS?", 
+    "options": ["font-style: italic;","text-style: italic;","style: italic;","text-italic: true;"],
+    "answerIndex": 0
+  },
+  {
+    "id": 108,
+    "question": "To underline text:", 
+    "options": ["text-decoration: underline;","text-style: underline;","underline: yes;","decoration: underline;"],
+    "answerIndex": 0
+  },
+  {
+    "id": 109,
+    "question": "The default position value is:", 
+    "options": ["relative","static","fixed","absolute"],
+    "answerIndex": 1
+  },
+  {
+    "id": 110,
+    "question": "The property to control element height:", 
+    "options": ["size","height","width","length"],
+    "answerIndex": 1
+  },
+  {
+    "id": 111,
+    "question": "To align items horizontally in Flexbox:", 
+    "options": ["align-items","justify-content","text-align","float"],
+    "answerIndex": 1
+  },
+  {
+    "id": 112,
+    "question": "To change the cursor to a pointer:", 
+    "options": ["cursor: hand;","pointer: true;","cursor: pointer;","mouse: pointer;"],
+    "answerIndex": 2
+  },
+  {
+    "id": 113,
+    "question": "CSS comments are written as:", 
+    "options": ["<!-- -->","/* */","//","# comment"],
+    "answerIndex": 1
+  },
+  {
+    "id": 114,
+    "question": "The z-index property controls:", 
+    "options": ["Layer order","Text color","Font size","Padding"],
+    "answerIndex": 0
+  },
+  {
+    "id": 115,
+    "question": "display: flex; is used for:", 
+    "options": ["Grids","Flexible layouts","Fixed layouts","Floats"],
+    "answerIndex": 1
+  },
+  {
+    "id": 116,
+    "question": "To make a list horizontal:", 
+    "options": ["list-style: inline;","display: inline;","display: inline-block;","display: list;"],
+    "answerIndex": 2
+  },
+  {
+    "id": 117,
+    "question": "To remove list bullets:", 
+    "options": ["list-style: none;","list-bullets: off;","no-bullets: true;","bullet: none;"],
+    "answerIndex": 0
+  },
+  {
+    "id": 118,
+    "question": "CSS Grid uses:", 
+    "options": ["rows and columns","lines and shapes","blocks only","flex only"],
+    "answerIndex": 0
+  },
+  {
+    "id": 119,
+    "question": "Property to control text spacing:", 
+    "options": ["word-space","letter-spacing","text-gap","space"],
+    "answerIndex": 1
+  },
+  {
+    "id": 120,
+    "question": "How do you import a font?", 
+    "options": ["@font {}","@import","@font-face","font-style"],
+    "answerIndex": 2
+  },
+  {
+    "id": 121,
+    "question": "To make background fixed:", 
+    "options": ["background-attachment: fixed;","background-type: fixed;","attach: fixed;","background: fixed;"],
+    "answerIndex": 0
+  },
+  {
+    "id": 122,
+    "question": "Which unit is relative to the root font size?", 
+    "options": ["em","rem","%","px"],
+    "answerIndex": 1
+  },
+  {
+    "id": 123,
+    "question": "The default display of <div> is:", 
+    "options": ["inline","block","flex","grid"],
+    "answerIndex": 1
+  },
+  {
+    "id": 124,
+    "question": "To add a shadow to text:", 
+    "options": [
+        "text-shadow",
+        "box-shadow",
+        "shadow",
+        "font-shadow"
+      ],
+    "answerIndex": 0
+  },
+  {
+    "id": 125,
+    "question": "Which property sets the width of an element?", 
+    "options": ["size","width","length","height"],
+    "answerIndex": 1
+  },
+  {
+    "id": 126,
+    "question": "Which property sets the background image?", 
+    "options": ["background-image","image","bg-image","background"],
+    "answerIndex": 0
+  },
+  {
+    "id": 127,
+    "question": "Which property controls line height?", 
+    "options": ["line-height","height-line","spacing","line-space"],
+    "answerIndex": 0
+  },
+  {
+    "id": 128,
+    "question": "Which property controls text alignment?", 
+    "options": ["align","text-align","font-align","alignment"],
+    "answerIndex": 1
+  },
+  {
+    "id": 129,
+    "question": "Which property controls overflow content?", 
+    "options": ["overflow","content-overflow","scroll","clip"],
+    "answerIndex": 0
+  },
+  {
+    "id": 130,
+    "question": "Which property controls element visibility?", 
+    "options": ["visible","display","visibility","show"],
+    "answerIndex":0
+}
+],"JS": [
+  {
+    "id": 131,
+    "question": "What does JS stand for?", 
+    "options": ["JavaSyntax","JavaScript","JustScript","JScript"],
+    "answerIndex": 1
+  },
+  {
+    "id": 132,
+    "question": "Where should JavaScript code be placed in HTML?", 
+    "options": ["In the <body> or <head>","Only <head>","Only <body>","In <footer>"],
+    "answerIndex": 0
+  },
+  {
+    "id": 133,
+    "question": "How do you write \"Hello World\" in an alert box?", 
+    "options": ["msg(\"Hello World\")","alert(\"Hello World\")","print(\"Hello World\")","prompt(\"Hello World\")"],
+    "answerIndex": 1
+  },
+  {
+    "id": 134,
+    "question": "Which symbol is used for comments in JS?", 
+    "options": ["<!-- -->","//","/* */","Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": 135,
+    "question": "How do you declare a variable?", 
+    "options": ["var","variable","v","let var"],
+    "answerIndex": 0
+  },
+  {
+    "id": 136,
+    "question": "Which keyword creates a constant variable?", 
+    "options": ["let","const","var","define"],
+    "answerIndex": 1
+  },
+  {
+    "id": 137,
+    "question": "How do you create a function?", 
+    "options": ["func myFunction()","function myFunction()","def myFunction()","new Function()"],
+    "answerIndex": 1
+  },
+  {
+    "id": 138,
+    "question": "How do you call a function named 'demo'?", 
+    "options": ["call demo","demo()","call(demo)","function demo"],
+    "answerIndex": 1
+  },
+  {
+    "id": 139,
+    "question": "Which operator is used for addition?", 
+    "options": ["+","&","++","add"],
+    "answerIndex": 0
+  },
+  {
+    "id": 140,
+    "question": "Which operator compares value and type?", 
+    "options": ["==","===","!=","=>"],
+    "answerIndex": 1
+  },
+  {
+    "id": 141,
+    "question": "How do you display data in the console?", 
+    "options": ["print()","console.log()","write()","alert()"],
+    "answerIndex": 1
+  },
+  {
+    "id": 142,
+    "question": "How do you get user input?", 
+    "options": ["prompt()","input()","alert()","message()"],
+    "answerIndex": 0
+  },
+  {
+    "id": 143,
+    "question": "What is the correct syntax for an if statement?", 
+    "options": ["if condition: {}","if (condition) {}","if {condition}","if condition()"],
+    "answerIndex": 1
+  },
+  {
+    "id": 144,
+    "question": "Which loop repeats until a condition is false?", 
+    "options": ["for","while","do...while","loop"],
+    "answerIndex": 1
+  },
+  {
+    "id": 145,
+    "question": "Which array method adds elements to the end?", 
+    "options": ["push()","pop()","unshift()","shift()"],
+    "answerIndex": 0
+  },
+  {
+    "id": 146,
+    "question": "Which method removes the last element from an array?", 
+    "options": ["delete()","pop()","remove()","slice()"],
+    "answerIndex": 1
+  },
+  {
+    "id": 147,
+    "question": "Arrays are enclosed in:", 
+    "options": ["{}","[]","()","<>"],
+    "answerIndex": 1
+  },
+  {
+    "id": 148,
+    "question": "Objects are enclosed in:", 
+    "options": ["{}","[]","()","<>"],
+    "answerIndex": 0
+  },
+  {
+    "id": 149,
+    "question": "How do you write a comment in JS?", 
+    "options": ["<!-- -->","// comment","/* comment */","Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": 150,
+    "question": "The 'length' property is used for:", 
+    "options": ["Arrays and strings","Numbers","Functions","None"],
+    "answerIndex": 0
+  },
+  {
+    "id": 151,
+    "question": "Which function converts a string to integer?", 
+    "options": ["int()","parseInt()","toInt()","Number()"],
+    "answerIndex": 1
+  },
+  {
+    "id": 152,
+    "question": "What keyword exits a loop?", 
+    "options": ["end","stop","break","exit"],
+    "answerIndex": 2
+  },
+  {
+    "id": 153,
+    "question": "Which method adds items at the beginning of an array?", 
+    "options": ["push()","unshift()","add()","prepend()"],
+    "answerIndex": 1
+  },
+  {
+    "id": 154,
+    "question": "How do you access an object property named 'age'?", 
+    "options": ["obj[\"age\"]","obj.age","Both A and B","age.obj"],
+    "answerIndex": 2
+  },
+  {
+    "id": 155,
+    "question": "Which keyword is used to skip one iteration in a loop?", 
+    "options": ["stop","continue","skip","next"],
+    "answerIndex": 1
+  },
+  {
+    "id": 156,
+    "question": "How do you check the type of a variable?", 
+    "options": ["typeof","type()","check()","var.type"],
+    "answerIndex": 0
+  },
+  {
+    "id": 157,
+    "question": "What is an array?", 
+    "options": ["A single variable that stores multiple values","A number","A string","A boolean"],
+    "answerIndex": 0
+  },
+  {
+    "id": 158,
+    "question": "What will console.log(typeof []) return?", 
+    "options": ["array","object","list","undefined"],
+    "answerIndex": 1
+  },
+  {
+    "id": 159,
+    "question": "What does DOM stand for?", 
+    "options": ["Document Object Model","Data Object Management","Document Oriented Module","Digital Object Map"],
+    "answerIndex": 0
+  },
+  {
+    "id": 160,
+    "question": "To select an element by ID:", 
+    "options": ["getElementById()","getById()","querySelector()","findElement()"],
+    "answerIndex": 0
+  },
+  {
+    "id": 161,
+    "question": "Which method changes HTML content?", 
+    "options": ["innerText","innerHTML","changeText","text()"],
+    "answerIndex": 1
+  },
+  {
+    "id": 162,
+    "question": "Which event fires when a user clicks?", 
+    "options": ["onhover","onload","onclick","onchange"],
+    "answerIndex": 2
+  },
+  {
+    "id": 163,
+    "question": "Which keyword declares a block-scoped variable?", 
+    "options": ["var","let","const","both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": 164,
+    "question": "How do you concatenate strings?", 
+    "options": ["+","." ,"concat","&"],
+    "answerIndex": 0
+  },
+  {
+    "id": 165,
+    "question": "What will 2 + \"2\" output?", 
+    "options": ["4","22","error","NaN"],
+    "answerIndex": 1
+  },
+  {
+    "id": 166,
+    "question": "What does NaN mean?", 
+    "options": ["No any number","Not a Number","New a number","None"],
+    "answerIndex": 1
+  },
+  {
+    "id": 167,
+    "question": "Which function rounds a number down?", 
+    "options": ["Math.round()","Math.floor()","Math.ceil()","Math.down()"],
+    "answerIndex": 1
+  },
+  {
+    "id": 168,
+    "question": "Which function generates a random number?", 
+    "options": ["random()","Math.random()","number.random()","rand()"],
+    "answerIndex": 1
+  },
+  {
+    "id": 169,
+    "question": "Which operator is used to assign values?", 
+    "options": ["=","==","==="," :="],
+    "answerIndex": 0
+  },
+  {
+    "id": 170,
+    "question": "Which keyword defines a class?", 
+    "options": ["function","class","object","def"],
+    "answerIndex": 1
+  }
+],"SQL": [
+  {
+    "id": 171,
+    "question": "What does SQL stand for?", 
+    "options": ["Structured Query Language","Sequential Query Logic","Server Query Language","Standard Question Language"],
+    "answerIndex": 0
+  },
+  {
+    "id": 172,
+    "question": "Which SQL command is used to retrieve data?", 
+    "options": ["SELECT","INSERT","DELETE","UPDATE"],
+    "answerIndex": 0
+  },
+  {
+    "id": 173,
+    "question": "Which clause is used to filter records?", 
+    "options": ["WHERE","ORDER BY","GROUP BY","HAVING"],
+    "answerIndex": 0
+  },
+  {
+    "id": 174,
+    "question": "Which SQL command is used to add new data?", 
+    "options": ["INSERT","ADD","PUT","UPDATE"],
+    "answerIndex": 0
+  },
+  {
+    "id": 175,
+    "question": "The DELETE command removes data from:", 
+    "options": ["The Database Structure","A Table","A Column Definition","User Privileges"],
+    "answerIndex": 1
+  },
+  {
+    "id": 176,
+    "question": "Which SQL command creates a new table?", 
+    "options": ["ADD TABLE","INSERT TABLE","CREATE TABLE","MAKE TABLE"],
+    "answerIndex": 2
+  },
+  {
+    "id": 177,
+    "question": "Which clause sorts the result-set?", 
+    "options": ["FILTER BY","ORDER BY","RANK BY","SORT BY"],
+    "answerIndex": 1
+  },
+  {
+    "id": 178,
+    "question": "Which keyword eliminates duplicate records?", 
+    "options": ["DISTINCT","UNIQUE","REMOVE","ONLY"],
+    "answerIndex": 0
+  },
+  {
+    "id": 179,
+    "question": "Which SQL command modifies existing data in a table?", 
+    "options": ["UPDATE","INSERT","DELETE","SELECT"],
+    "answerIndex": 0
+  },
+  {
+    "id": 180,
+    "question": "Which of the following is a Data Definition Language (DDL) command?", 
+    "options": ["SELECT","INSERT","CREATE","UPDATE"],
+    "answerIndex": 2
+  },
+  {
+    "id": 181,
+    "question": "Which symbol is used to select all columns in a table?", 
+    "options": ["$","#","*","&"],
+    "answerIndex": 2
+  },
+  {
+    "id": 182,
+    "question": "Which statement removes a table permanently?", 
+    "options": ["TRUNCATE","DELETE","DROP","REMOVE"],
+    "answerIndex": 2
+  },
+  {
+    "id": 183,
+    "question": "What type of SQL command is SELECT?", 
+    "options": ["DDL","DCL","TCL","DML"],
+    "answerIndex": 3
+  },
+  {
+    "id": 184,
+    "question": "Which clause is used with aggregate functions to filter grouped data?", 
+    "options": ["WHERE","HAVING","ORDER BY","GROUP"],
+    "answerIndex": 1
+  },
+  {
+    "id": 185,
+    "question": "Which SQL function counts rows in a table?", 
+    "options": ["SUM()","COUNT()","TOTAL()","ROWS()"],
+    "answerIndex": 1
+  },
+  {
+    "id": 186,
+    "question": "Which constraint ensures a column cannot have NULL values?", 
+    "options": ["UNIQUE","PRIMARY KEY","NOT NULL","FOREIGN KEY"],
+    "answerIndex": 2
+  },
+  {
+    "id": 187,
+    "question": "Which SQL keyword is used to join tables?", 
+    "options": ["BIND","LINK","JOIN","ATTACH"],
+    "answerIndex": 2
+  },
+  {
+    "id": 188,
+    "question": "Which type of join returns matching rows from both tables?", 
+    "options": ["CROSS JOIN","INNER JOIN","LEFT JOIN","RIGHT JOIN"],
+    "answerIndex": 1
+  },
+  {
+    "id": 189,
+    "question": "Which command removes all rows but keeps the table structure?", 
+    "options": ["DROP","TRUNCATE","DELETE","CLEAR"],
+    "answerIndex": 1
+  },
+  {
+    "id": 190,
+    "question": "Which of the following is a valid SQL data type?", 
+    "options": ["STRING","VARCHAR","TEXTFIELD","CHARACTERSET"],
+    "answerIndex": 1
+  },
+  {
+    "id": 191,
+    "question": "Which command adds a column to an existing table?", 
+    "options": ["UPDATE TABLE","ALTER TABLE ... ADD","INSERT COLUMN","MODIFY TABLE"],
+    "answerIndex": 1
+  },
+  {
+    "id": 192,
+    "question": "Which SQL function returns the highest value?", 
+    "options": ["MAX()","HIGH()","TOP()","BIG()"],
+    "answerIndex": 0
+  },
+  {
+    "id": 193,
+    "question": "Which clause groups rows with the same values?", 
+    "options": ["ORDER BY","GROUP BY","HAVING","FILTER BY"],
+    "answerIndex": 1
+  },
+  {
+    "id": 194,
+    "question": "Which keyword is used to rename a column?", 
+    "options": ["RENAME","AS","ALIAS","CHANGE"],
+    "answerIndex": 1
+  },
+  {
+    "id": 195,
+    "question": "A PRIMARY KEY must be:", 
+    "options": ["Duplicate values allowed","Unique and NOT NULL","Always auto-incremented","Stored as text"],
+    "answerIndex": 1
+  },
+  {
+    "id": 196,
+    "question": "Which constraint enforces referential integrity?", 
+    "options": ["CHECK","FOREIGN KEY","DEFAULT","UNIQUE"],
+    "answerIndex": 1
+  },
+  {
+    "id": 197,
+    "question": "Which command cancels changes in a transaction?", 
+    "options": ["ROLLBACK","UNDO","CANCEL","RESET"],
+    "answerIndex": 0
+  },
+  {
+    "id": 198,
+    "question": "Which operator is used to find patterns in text?", 
+    "options": ["LIKE","MATCH","FIND","SEARCH"],
+    "answerIndex": 0
+  },
+  {
+    "id": 199,
+    "question": "Which wildcard represents multiple characters in a LIKE query?", 
+    "options": ["$","&","%","?"],
+    "answerIndex": 2
+  },
+  {
+    "id": 200,
+    "question": "Which SQL keyword returns only different values?", 
+    "options": ["DISTINCT","DIFFERENT","UNIQUE ROWS","VARIANCE"],
+    "answerIndex": 0
+  }
+],"PHP": [
+  {
+    "id": 201,
+    "question": "What does PHP stand for?", 
+    "options": ["Private Home Page","Personal Hypertext Processor","PHP: Hypertext Preprocessor","Programmed Hyper Processing"],
+    "answerIndex": 2
+  },
+  {
+    "id": 202,
+    "question": "PHP code is executed on:", 
+    "options": ["Client side","Server side","Both client and server","Browser only"],
+    "answerIndex": 1
+  },
+  {
+    "id": 203,
+    "question": "Which symbol is used to declare variables in PHP?", 
+    "options": ["@","#","$","%"],
+    "answerIndex": 2
+  },
+  {
+    "id": 204,
+    "question": "Which function outputs text in PHP?", 
+    "options": ["echo","print","write","Both echo and print"],
+    "answerIndex": 3
+  },
+  {
+    "id": 205,
+    "question": "Which tag is used to start PHP code?", 
+    "options": ["<?php","<php>","<?","<script>"],
+    "answerIndex": 0
+  },
+  {
+    "id": 206,
+    "question": "Which tag ends PHP code?", 
+    "options": ["?>","</php>","end","stop"],
+    "answerIndex": 0
+  },
+  {
+    "id": 207,
+    "question": "Which function is used to connect to MySQL?", 
+    "options": ["mysql_connect()","mysqli_connect()","connect_mysql()","db_connect()"],
+    "answerIndex": 1
+  },
+  {
+    "id": 208,
+    "question": "Which function is used to include a file?", 
+    "options": ["require()","include()","Both include() and require()","import()"],
+    "answerIndex": 2
+  },
+  {
+    "id": 209,
+    "question": "Which function starts a session?", 
+    "options": ["start_session()","session_start()","begin_session()","open_session()"],
+    "answerIndex": 1
+  },
+  {
+    "id": 210,
+    "question": "Which superglobal stores form data sent via POST?", 
+    "options": ["$_GET","$_POST","$_FORM","$_DATA"],
+    "answerIndex": 1
+  },
+  {
+    "id": 211,
+    "question": "Which superglobal stores form data sent via GET?", 
+    "options": ["$_GET","$_POST","$_FORM","$_DATA"],
+    "answerIndex": 0
+  },
+  {
+    "id": 212,
+    "question": "Which function is used to read a file?", 
+    "options": ["fread()","readfile()","file_get_contents()","All of the above"],
+    "answerIndex": 3
+  },
+  {
+    "id": 213,
+    "question": "Which function is used to write to a file?", 
+    "options": ["fwrite()","writefile()","file_write()","put_contents()"],
+    "answerIndex": 0
+  },
+  {
+    "id": 214,
+    "question": "Which operator is used for concatenation?", 
+    "options": ["+","&",".","*"],
+    "answerIndex": 2
+  },
+  {
+    "id": 215,
+    "question": "Which function checks if a variable is set?", 
+    "options": ["isset()","empty()","isnull()","defined()"],
+    "answerIndex": 0
+  },
+  {
+    "id": 216,
+    "question": "Which function checks if a variable is empty?", 
+    "options": ["isset()","empty()","isnull()","defined()"],
+    "answerIndex": 1
+  },
+  {
+    "id": 217,
+    "question": "Which function returns the type of a variable?", 
+    "options": ["gettype()","typeof()","vartype()","type()"],
+    "answerIndex": 0
+  },
+  {
+    "id": 218,
+    "question": "Which function is used to redirect a page?", 
+    "options": ["header()","redirect()","goto()","location()"],
+    "answerIndex": 0
+  },
+  {
+    "id": 219,
+    "question": "Which function is used to destroy a session?", 
+    "options": ["session_destroy()","destroy_session()","end_session()","unset_session()"],
+    "answerIndex": 0
+  },
+  {
+    "id": 220,
+    "question": "Which function is used to hash a string?", 
+    "options": ["hash()","md5()","sha1()","All of the above"],
+    "answerIndex": 3
+  },
+  {
+    "id": 221,
+    "question": "Which function is used to get the current date?", 
+    "options": ["date()","getdate()","time()","All of the above"],
+    "answerIndex": 3
+  },
+  {
+    "id": 222,
+    "question": "Which function is used to get the length of a string?", 
+    "options": ["strlen()","length()","count()","size()"],
+    "answerIndex": 0
+  },
+  {
+    "id": 223,
+    "question": "Which function is used to convert a string to lowercase?", 
+    "options": ["tolower()","strtolower()","lower()","stringlower()"],
+    "answerIndex": 1
+  },
+  {
+    "id": 224,
+    "question": "Which function is used to convert a string to uppercase?", 
+    "options": ["toupper()","strtoupper()","upper()","stringupper()"],
+    "answerIndex": 1
+  },
+  {
+    "id": 225,
+    "question": "Which function is used to split a string?", 
+    "options": ["explode()","split()","strsplit()","divide()"],
+    "answerIndex": 0
+  },
+  {
+    "id": 226,
+    "question": "Which function is used to join array elements into a string?", 
+    "options": ["implode()","join()","arrayjoin()","combine()"],
+    "answerIndex": 0
+  },
+  {
+    "id": 227,
+    "question": "Which function is used to count elements in an array?", 
+    "options": ["count()","sizeof()","length()","Both count() and sizeof()"],
+    "answerIndex": 3
+  },
+  {
+    "id": 228,
+    "question": "Which function is used to sort an array?", 
+    "options": ["sort()","asort()","ksort()","All of the above"],
+    "answerIndex": 3
+  },
+  {
+    "id": 229,
+    "question": "Which function is used to include a file only once?", 
+    "options": ["require_once()","include_once()","Both A and B","import_once()"],
+    "answerIndex": 2
+  },
+  {
+    "id": 230,
+    "question": "Which PHP engine runs PHP on a server?", 
+    "options": ["Apache","XAMPP","Zend Engine","IIS"],
+    "answerIndex": 2
+  }
+]
+}
